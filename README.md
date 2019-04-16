@@ -5,6 +5,7 @@
 thetaStudio-viewer is a fork of Evothings viewer being develop to target Theta V and Z1 360 degree Cameras. It is used to connect  the Camera to other devices, live-update and to quickly prototype Apps for the Ricoh Theta devices.
 
 It is heavily based on Cordova/PhoneGap, TypeScript, CoffeeScript, etc... 
+See us at hackster.io
 
 ### Notice when building from source
 
